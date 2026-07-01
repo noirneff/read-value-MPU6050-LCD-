@@ -1,0 +1,7 @@
+## IDF Component Manager Manifest File
+dependencies:
+  ## Required IDF version
+  idf:
+    version: '>=5.3.0'
+  # SSD1306 OLED display driver
+  k0i05/esp_ssd1306: '*'
